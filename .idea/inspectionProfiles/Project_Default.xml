@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenPackageUpdate" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="org.glassfish.jaxb:jaxb-runtime" />
+          <option value="org.junit.jupiter:junit-jupiter-api" />
+          <option value="org.junit.jupiter:junit-jupiter-engine" />
+          <option value="jakarta.ws.rs:jakarta.ws.rs-api" />
+          <option value="jakarta.faces:jakarta.faces-api" />
+          <option value="org.hibernate.orm:hibernate-core" />
+          <option value="jakarta.xml.ws:jakarta.xml.ws-api" />
+          <option value="jakarta.servlet:jakarta.servlet-api" />
+          <option value="mysql:mysql-connector-java" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
